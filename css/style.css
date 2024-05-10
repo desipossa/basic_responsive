@@ -37,7 +37,7 @@
 
     /* r */
     .header h1 {
-        position: fixed;
+        position: relative;
         left: 32px;
         z-index: 1001;
     }
@@ -101,6 +101,7 @@
         font-size: 22px;
         padding: 4px;
         background: #ddd;
+        color: #333;
     }
 }
 
